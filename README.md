@@ -25,14 +25,14 @@ Disadvantages could include the fact that a code of technically "optimal" effici
 	
 It is possible to rearrange and streamline small aspects of this code, and test if specific smaller or larger ranges can relate inversely to each other in faster code.
 
-[1]  Why does the dataset for 2018 start at 3?  
+[ 1]  Why does the dataset for 2018 start at 3?  
 [^2]  Imagining 3d models of economic structures, policy models and formation in different nations changes over time given different factors, and how the globe would look like if it was covered in spikes of every expenditure occurring concurrently
-[3]   Method of positing the possibility of tax returns to be paid over tax-deductible donations to nonprofit(501)(b) for individual donors within one standard deviation on the upper limit $ of the income that the majority of US constituents make  
+[ 3]   Method of positing the possibility of tax returns to be paid over tax-deductible donations to nonprofit(501)(b) for individual donors within one standard deviation on the upper limit $ of the income that the majority of US constituents make  
 [^4]  Investing in an energy stock by itself is not guaranteed to have any effect on the development, research, deployment, and necessary policies that implement green energy  
-[5]   Allreps.com   
-[7]   face photo input inserts into a random meme, no cache  
-[8]   (previous idea) share safe anonymously from proximity to anyone who has the site or program open 
-[9]   the comprehensive discrimination rehabilitation program  
+[ 5]   Allreps.com   
+[ 7]   face photo input inserts into a random meme, no cache  
+[ 8]   (previous idea) share safe anonymously from proximity to anyone who has the site or program open  
+[ 9]   the comprehensive discrimination rehabilitation program  
 [10]  an idle expression of digital astroturf  
 [11]  the question of most digitally input costume or favorite costume different reasons most happy per year  
 [^13] For instance, the way the Quadratic formula's new form was discovered  
