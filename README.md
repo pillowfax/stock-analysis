@@ -26,7 +26,7 @@ Disadvantages could include the fact that a code of technically "optimal" effici
 It is possible to rearrange and streamline small aspects of this code, and test if specific smaller or larger ranges can relate inversely to each other in faster code.
 
 [1]  Why does the dataset for 2018 start 3?  
-  [^2]  Imagining 3d models of economic structures and formation in different nations changes over time can be translated as a word overlay chart infographic   
+  [^2]  Imagining 3d models of economic structures and formation in different nations changes over time can be translatableto a  chart infographic   
   [3]   Method of positing the possibility of tax returns to be paid over tax-deductible donations to nonprofit(501)(b) for individual donors within one standard deviation on the upper limit $ of the income that the majority of US constituents make  
 [^4]  Investing in an energy stock by itself is not guaranteed to have any effect on the development, research, deployment, and necessary policies that implement green energy  
 [5]   Allreps.com   
