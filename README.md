@@ -31,7 +31,7 @@ It is possible to rearrange and streamline small aspects of this code, and test 
 [^4]  Investing in an energy stock by itself is not guaranteed to have any effect on the development, research, deployment, and necessary policies that implement green energy 
 [5]   Allreps.com  
 [7]   face photo input inserts into a random meme, no cache  
-[8]   (previous idea) share safe happiness encouraging emojis anonymously from proximity to anyone who has the site or program open  
+[8]   (previous idea) share safe anonymously from proximity to anyone who has the site or program open  
 [9]   the comprehensive discrimination rehabilitation program  
 [10]  an idle expression of digital astroturf  
 [11]  the question of most digitally input costume or favorite costume different reasons most happy per year  
