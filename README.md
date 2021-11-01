@@ -35,7 +35,7 @@ It is possible to rearrange and streamline small aspects of this code, and test 
 [ 9]   the comprehensive discrimination rehabilitation program  
 [10]  an idle expression of digital astroturf  
 [11]  the question of most digitally input costume or favorite costume different reasons most happy per year  
-[^13] For instance, the way the Quadratic formula's new form was discovered  
+[^13] For instance, the way the quadratic formula's new form was discovered  
 [13]  2A 
 [14]  the scannable qr code that reads as but is invisible if the phone photo scanner can pick up a specific chroma range of the image (which can be made inconsistent with the he value or tone) or a qr frequency of the image  
 [15]  ^Have been able to accomplish the above without a computer program the invisible conceptual paintings of maximum actual, and depending on perspective, quantifiable variability and emotive tones both color and frequency by reprogrammed  
