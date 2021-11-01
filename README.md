@@ -25,16 +25,16 @@ Disadvantages could include the fact that a code of technically "optimal" effici
 	
 It is possible to rearrange and streamline small aspects of this code, and test if specific smaller or larger ranges can relate inversely to each other in faster code.
 
-[1]  Why does the dataset for 2018 start 3?
-  [^2]  Imagining 3d models of economic structures and formation in different nations changes over time can be translated as a word overlay chart infographic 
-  [3]   Method of positing the possibility of tax returns to be paid over tax-deductible donations to nonprofit(501)(b) for individual donors within one standard deviation on the upper limit $ of the income that the majority of US constituents make,  
+[1]  Why does the dataset for 2018 start 3?  
+  [^2]  Imagining 3d models of economic structures and formation in different nations changes over time can be translated as a word overlay chart infographic   
+  [3]   Method of positing the possibility of tax returns to be paid over tax-deductible donations to nonprofit(501)(b) for individual donors within one standard deviation on the upper limit $ of the income that the majority of US constituents make  
 [^4]  Investing in an energy stock by itself is not guaranteed to have any effect on the development, research, deployment, and necessary policies that implement green energy 
-[5]   Allreps.com
-[6]   conceptual ballPit of varying sizes, chromas, fuzz, shapes, scutoid, dimensions 
-[7]   face photo input inserts into a random meme, no cache
-[8]   (previous idea) share safe emojis anonymously from proximity to anyone who has the site or program open
-[9]   the comprehensive discrimination rehabilitation program
-[10]  an idle expression of digital astroturf
-[11]  the question of most digitally input costume or favorite costume different reasons most happy per year
-[^13] For instance, the way the Quadratic formula's new form was discovered
-[14]  the scannable qr code that reads as but is invisible if the phone photo scanner can pick up a specific chroma range of the image (which can be made inconsistent with the he value or tone) or a qr frequency of the image
+[5]   Allreps.com  
+[6]   conceptual ballPit of varying sizes, chromas, fuzz, shapes, scutoid, dimensions  
+[7]   face photo input inserts into a random meme, no cache  
+[8]   (previous idea) share safe happiness encouraging emojis anonymously from proximity to anyone who has the site or program open  
+[9]   the comprehensive discrimination rehabilitation program  
+[10]  an idle expression of digital astroturf  
+[11]  the question of most digitally input costume or favorite costume different reasons most happy per year  
+[^13] For instance, the way the Quadratic formula's new form was discovered  
+[14]  the scannable qr code that reads as but is invisible if the phone photo scanner can pick up a specific chroma range of the image (which can be made inconsistent with the he value or tone) or a qr frequency of the image  
