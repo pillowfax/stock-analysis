@@ -38,3 +38,5 @@ It is possible to rearrange and streamline small aspects of this code, and test 
 [^13] For instance, the way the Quadratic formula's new form was discovered  
 [13]  2A 
 [14]  the scannable qr code that reads as but is invisible if the phone photo scanner can pick up a specific chroma range of the image (which can be made inconsistent with the he value or tone) or a qr frequency of the image  
+[15]  Please do not steal my ideas (although it has already happened, repeatedly, to my detriment and others' gains).  You will always know where it came from, even if you do not give credit.  Do not make me barrage you with every single thing that the 58 countries in Asia have historically as well as presently pioneered that Westerners assume they were the progenitos of, and everything women have invented.  Your severely damaging racist sexist preconceived preemptive notions 
+[16]  The truth is on my side.  I do not even need any ethically irresponsible forwarding of an imaginary diety's assistance for the full picture of the objective truth, which is my right to share, not yours.
