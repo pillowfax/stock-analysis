@@ -30,7 +30,6 @@ It is possible to rearrange and streamline small aspects of this code, and test 
   [3]   Method of positing the possibility of tax returns to be paid over tax-deductible donations to nonprofit(501)(b) for individual donors within one standard deviation on the upper limit $ of the income that the majority of US constituents make  
 [^4]  Investing in an energy stock by itself is not guaranteed to have any effect on the development, research, deployment, and necessary policies that implement green energy 
 [5]   Allreps.com  
-[6]   conceptual ballPit of varying sizes, chromas, fuzz, shapes, scutoid, dimensions  
 [7]   face photo input inserts into a random meme, no cache  
 [8]   (previous idea) share safe happiness encouraging emojis anonymously from proximity to anyone who has the site or program open  
 [9]   the comprehensive discrimination rehabilitation program  
