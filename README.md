@@ -38,5 +38,5 @@ It is possible to rearrange and streamline small aspects of this code, and test 
 [^13] For instance, the way the Quadratic formula's new form was discovered  
 [13]  2A 
 [14]  the scannable qr code that reads as but is invisible if the phone photo scanner can pick up a specific chroma range of the image (which can be made inconsistent with the he value or tone) or a qr frequency of the image  
-[15]  ^Have been able to accomplish the above without a computer program THE INVISIBLE conceptual PAINTINGS of maximum actual, and depending on perspective, quantifiable variability lol (c)faxpillow + I do not just make idle thoughts, my side job was as an internationally recognized installation, performance, and visual artist directly personally responsible for 150+ events and assisted 300+, political, successful revolutions, not needing a hipster website.
-[16]  Pls do not take ideas without credit.  Code and intellectual property are distinct.
+[15]  ^Have been able to accomplish the above without a computer program the invisible conceptual paintings of maximum actual, and depending on perspective, quantifiable variability and emotive tones both color and frequency by reprogrammed  
+[16]  Code and intellectual property are distinct.
