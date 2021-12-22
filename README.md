@@ -27,9 +27,10 @@ It is possible to rearrange and streamline small aspects of this code, and test 
 
 [ 1]  Why does the dataset for 2018 start at 3?  
 [^2]  Imagining 3d models of economic structures, policy models and formation in different nations changes over time given different factors, and how the globe would look like if it was covered in spikes of every expenditure occurring concurrently
-[ 3]   Method of positing the possibility of tax returns to be paid over tax-deductible donations to nonprofit(501)(b) for individual donors within one standard deviation on the upper limit $ of the income that the majority of US constituents make  
-[^4]  Investing in an energy stock by itself is not guaranteed to have any effect on the development, research, deployment, and necessary policies that implement green energy  
-[ 5]   Allreps.com   
+[^3]   Method of implementing tax returns to be paid at a rate scaling to the earning brackets over tax-deductible donations to nonprofit(401-501)(a,b,c) for individual donors within one standard deviation on the lower to upper limit values of the income that the majority of US constituents make.  
+[^4]   The NYHA RAND/Rodberg Calculator (alternate calculator) link:
+[ 5]   Allrepresentatives.com
+[^6]   Investing in an energy stock by itself is not guaranteed to have any effect on the development, research, deployment, and necessary policies that implement green energy
 [ 7]   face photo input inserts into a random meme, no cache  
 [ 8]   (previous idea) share safe anonymously from proximity to anyone who has the site or program open  
 [ 9]   the comprehensive discrimination rehabilitation program  
