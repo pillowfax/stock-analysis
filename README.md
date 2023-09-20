@@ -25,15 +25,24 @@ Disadvantages could include the fact that a code of technically "optimal" effici
 	
 It is possible to rearrange and streamline small aspects of this code, and test if specific smaller or larger ranges can relate inversely to each other in faster code.
 
-[ 1]   Why does the dataset for 2018 start at 3?  
+[ 1]   Why does the dataset for 2018 start at 3?
+
 [^2]   Envisioning 3d models of economic structures, policy models and formation in different nations changes over time given different factors, and visualizations of the globe if designating spikes of every bourse expenditure
-[^3]   Method of implementing tax returns to be paid at a rate scaling to the earning brackets over tax-deductible donations to nonprofit(401-501)(a,b,c) for individual donors within one standard deviation on the lower to upper limit values of the income that the majority of US constituents make.  
+
+[^3]   Method of implementing tax returns to be paid at a rate scaling to the earning brackets over tax-deductible donations to nonprofit(401-501)(a,b,c) for individual donors within one standard deviation on the lower to upper limit values of the income that the majority of US constituents make
+
 [^4]   The NYHA RAND/Rodberg Calculator (alternate calculator) link: faxpillow.github.io/nyha-calc
+
 [ 5]   Allrepresentatives.com
+
 [^6]   Investing in an energy stock by itself is not guaranteed to have any effect on the development, research, deployment, and necessary policies that implement green energy
-[ 7]   Face photo input inserts into a random meme, no cache  
-[ 8]   (previous idea) share safe anonymously from proximity to anyone who has the site or program open  
-[ 9]   The comprehensive discrimination rehabilitation program  
-[10]   An idle expression of digital astroturf  
-[11]   The question of most digitally input costume or favorite costume different reasons per year  
-[13]   The scannable qr code that reads as but is invisible if the phone photo scanner can pick up a specific chroma range of the image (which can be made inconsistent with the he value or tone) or a qr frequency of the image with conceptual paintings of maximum actual, and depending on perspective, quantifiable variability and emotive tones both color and frequency by reprogrammed  
+
+[ 7]   Face photo input inserts into a random meme, no cache; optionally shares anonymously from proximity to anyone who has the site or program open
+
+[ 9]   The comprehensive discrimination rehabilitation program
+
+[10]   An idle expression of digital astroturf 
+
+[11]   The question of most digitally input costume or favorite costume different reasons per year
+
+[13]   The scannable qr code that reads as but is invisible if the phone photo scanner can pick up a specific chroma range of the image (which can be made inconsistent with the he value or tone) or a qr frequency of the image with conceptual paintings of maximum actual, and depending on perspective, quantifiable variability and emotive tones both color and frequency by reprogrammed
